@@ -1,0 +1,53 @@
+.first {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  padding-left: 100px;
+  background: linear-gradient(blue, lightpink, hotpink);
+}
+.second {
+  background: linear-gradient(blue, lightpink, hotpink);
+}
+.fix {
+  position: sticky;
+  top: 0%;
+  z-index: 1;
+}
+li {
+  color: white;
+}
+.nav-link {
+  color: aliceblue;
+  font-weight: 500;
+  margin-top: 15px;
+  background-color: rgba(0, 0, 0, 0.242);
+}
+.marketing {
+  text-align: center;
+  background-color: blanchedalmond;
+  font-weight: 500;
+  font-style: italic;
+  border-radius: 50px;
+  margin-top: 15px;
+}
+.seperate {
+  margin-top: 20px;
+}
+.card {
+  margin-left: 105px;
+  text-align: center;
+}
+.img {
+  height: 20%;
+}
+body {
+  background-color: black;
+}
+h2 {
+  color: white;
+}
+h6 {
+  color: greenyellow;
+  text-align: center;
+  background-color: black;
+}
